@@ -1,16 +1,30 @@
-## Welcome to Junxia's Pages
+## Junxia Wang (王军霞）
 
-You can use the [editor on GitHub](https://github.com/junxiatree/junxia.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi👋 Welcome to my personal blog!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Biography
+![Image] 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am currently a research assistant in neuroscience at IRCN (International Research Center for Neurointelligence) of the University of Tokyo, Japan. Previously, I received my Bachelor's degree in physics from Peking University, China and also minored in economics at Peking University.
 
 ```markdown
-Syntax highlighted code block
+#### Expriences Glimpse
 
+2014/09-2018/07 Peking University, Beijing, China
+                Majored in Physics at School of Physics
+          
+2016/09-2018/07 Peking University, Beijing, China
+                Minored in Economics at National School of Development
+          
+2018/08-2019/06 Playnovate Company, Beijing, China
+                Mainly worked as a STEAM (Science, Technology, Engineering, the Arts and Mathematics) course designer and teacher
+                Took part in STEAM Teacher training program
+                Cooperated with Product Department and Market Department
+          
+2021/02-present IRCN, The University of Tokyo, Tokyo, Japan
+                Working as a research assistant in neuroscience
+                current lab website: [Link] (https://cailab-ircn.org/)
+ 
 # Header 1
 ## Header 2
 ### Header 3
