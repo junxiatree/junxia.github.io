@@ -7,7 +7,8 @@ Hi👋 Welcome to my personal blog!
 
 I am currently a research assistant in neuroscience at IRCN (International Research Center for Neurointelligence) of the University of Tokyo, Japan. Previously, I received my Bachelor's degree in physics from Peking University, China and also minored in economics there.
 
-#### Expriences Glimpse
+
+##### Expriences Glimpse
 ```markdown
 
 2014/09-2018/07 Peking University, Beijing, China
@@ -24,11 +25,13 @@ I am currently a research assistant in neuroscience at IRCN (International Resea
 2021/02-present IRCN, The University of Tokyo, Tokyo, Japan
                 Working as a research assistant in neuroscience
                 current lab website: [https://cailab-ircn.org/] (url)
-```   
-### Current lab website
-[Link](https://cailab-ircn.org/)
+```  
 
-### Email me
+
+##### current lab website
+[Cai Lab](https://cailab-ircn.org/)
+
+##### email me
 junxia.neuro@gmail.com
 
 
