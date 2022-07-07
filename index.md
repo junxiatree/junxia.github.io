@@ -5,10 +5,10 @@ Hi👋 Welcome to my personal blog!
 ### Biography
 ![Image] 
 
-I am currently a research assistant in neuroscience at IRCN (International Research Center for Neurointelligence) of the University of Tokyo, Japan. Previously, I received my Bachelor's degree in physics from Peking University, China and also minored in economics at Peking University.
+I am currently a research assistant in neuroscience at IRCN (International Research Center for Neurointelligence) of the University of Tokyo, Japan. Previously, I received my Bachelor's degree in physics from Peking University, China and also minored in economics there.
 
-```markdown
 #### Expriences Glimpse
+```markdown
 
 2014/09-2018/07 Peking University, Beijing, China
                 Majored in Physics at School of Physics
@@ -23,8 +23,9 @@ I am currently a research assistant in neuroscience at IRCN (International Resea
           
 2021/02-present IRCN, The University of Tokyo, Tokyo, Japan
                 Working as a research assistant in neuroscience
-                current lab website: [Link] (https://cailab-ircn.org/)
- 
+                current lab website: [https://cailab-ircn.org/] (url)
+```   
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -38,7 +39,7 @@ I am currently a research assistant in neuroscience at IRCN (International Resea
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
