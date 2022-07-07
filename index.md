@@ -25,6 +25,12 @@ I am currently a research assistant in neuroscience at IRCN (International Resea
                 Working as a research assistant in neuroscience
                 current lab website: [https://cailab-ircn.org/] (url)
 ```   
+### Current lab website
+[Link](https://cailab-ircn.org/)
+
+### Email me
+junxia.neuro@gmail.com
+
 
 # Header 1
 ## Header 2
